@@ -1,0 +1,27 @@
+.thumbnail img {
+  width: 100%;
+}
+
+.thumbnail{
+  padding: 0;
+}
+
+.thumbnail .caption-full{
+  padding: 9px;
+}
+
+#indeximg {
+  width: 100%;
+  height: 155px; /* New Bits*/
+  background-size: cover;/* New Bits*/
+  background-position: center center;/* New Bits*/
+}
+
+.delete-form {
+  display: inline;
+}
+
+#map{
+  height: 400px;
+  width: 100%;
+}
