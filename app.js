@@ -52,6 +52,6 @@ app.use('/campgrounds', campgroundRoutes);
 
 
 // Server Listening Command
-app.listen(3000,function(){
+app.listen(3001,function(){
   console.log('Yelp Camp - Server Has Started!!');
 });
